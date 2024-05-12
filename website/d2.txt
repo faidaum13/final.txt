@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head><title>do's and dont's</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#008080;
+padding:0 50px;
+}
+</style>
+</head>
+<body bgcolor=navyblue>
+<header align=center><h1>do's and dont's</h1></header>
+<p><font size=20 color=white>
+<h2>do's</h2>
+<strong>Cut:</strong>
+<ul>
+<li>wash hands</li>
+<li>take tetanus shot</li>
+<li>clean the wound</li>
+<li>cover the wound</li>
+<li>watch for infection signs</li>
+</ul>
+<strong>scald:</strong>
+<ul>
+<li>cool down with tapwater</li>
+<li>keep warm in a blanket</li>
+</ul>
+<strong>dislocation of a bone:</strong>
+<ul>
+<li>must be put back to place as fast as possible (this should be done by a professional healthcare worker of a doctor. if not available then, must be performed by kowledgable person about medical emergencies like this)</li>
+</ul>
+<h2>don'ts</h2>
+<strong>Cut:</strong>
+<ul>
+<li>don't touch</li>
+<li>avoid contact with rusty and dirty materials</li>
+</ul>
+<strong>scald:</strong>
+<ul>
+<li>must not use cold water or ice for cooling down</li>
+<li>do not apply any greasy substances(like butter, oil and etc.)</li>
+<li>avoid scald getting rubbed on a surface(like the blanket for warming)</li>
+</ul>
+<strong>dislocation of bone:</strong>
+<ul>
+<li>don't touch the dislocated area</li>
+<li>don't let the dislocated area swell and get the nerves more stretched(meaning do something as much as possible to return on its original place)</li>
+<li>don't move the injured person(unless there are hazards on the place)</li>
+<li>avoid too much moving</li>
+</ul>
+</font>
+</p>
+</body>
+</html>

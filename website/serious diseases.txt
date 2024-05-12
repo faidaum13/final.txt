@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head><title>serious diseases among children</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#008080;
+padding:0 50px;
+}
+</style>
+</head>
+<body bgcolor=Olive>
+<header align=center><h1>Serious diseases among children</h1></header>
+<ul>
+<li>Measles</li>
+<li>Malaria</li>
+<li>Pneumonia</li>
+</ul>
+<p><font color=silver size=20><strong>
+Measles<strong>
+, also called rubeola, acute, highly contagious, fever-producing disease caused by a filterable virus, different from the virus that causes the less serious disease German measles, or rubella.It was formerly one of the most common childhood diseases. Since the development of an effective vaccine in 1963, it has become much less frequent.<br><br><strong>
+Malaria<strong>
+, disease caused by infection with single-celled parasites of the genus Plasmodium. Anopheles mosquitoes transmit these parasites from one person to another in their bites. Malaria is characterized by periodic bouts of severe chills and high fever. Serious cases of malaria can result in death if left untreated. More than a million people die of the disease each year, most of them in Africa, according to the World Health Organization (WHO).<br><br><strong>
+Pneumonia<strong>
+, inflammation of one or both lungs. In people with pneumonia, air sacs in the lungs fill with fluid, preventing oxygen from reaching blood cells and nourishing the other cells of the body. Sometimes the inflammation occurs in scattered patches in the tissue around the ends of the bronchioles, the smallest air tubes in the lungs. This is known as bronchopneumonia. In other cases the inflammation is widespread and involves an entire lobe of the lung. This condition is called lobar pneumonia.</font></p>
+</body>
+</html>

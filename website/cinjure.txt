@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><title>common injuries among children</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#00ffff;
+padding:0 50px;
+}
+</style>
+</head>
+<body bgcolor=yellow>
+<header align=center><h1>common injuries among children</h1>
+</header>
+<ul><font size=20 font color= black>
+<li>cut</li>
+<li>scald</li>
+<li>dislocation of elbow</li>
+</font>
+</ul>
+<p><font color=black size=20><strong>Cut</strong>, an injury made when something sharp pierces the skin
+<br><br><strong>Scald</strong>, it is an injury wherein skin is burnt due to contact with a hot liquid.<br><br><strong>dislocation of elbow</strong> when the joint of elbow got dislocated causing the dislocated part to swell and stretch nerves.</font></p>
+
+
+

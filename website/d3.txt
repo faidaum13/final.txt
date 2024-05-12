@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head><title>do's and dont's</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#008080;
+padding:0 50px;
+}
+</style>
+</head>
+<body bgcolor=navyblue>
+<header align=center><h1>do's and dont's</h1></header>
+<p><font size=20 color=white>
+<h2>do's</h2>
+<strong>drowning:</strong>
+<ul>
+<li>go get help or go help</li>
+<li>move to safer place</li>
+<li>check if he/she is conscious</li>
+<li>CPR (this CPR shown is for child only not for adult: 5 rescue breaths, 30 compressions, 2 rescue breaths again. [keep going till it went okay] reminding to push hard and fast to revive easily</li>
+</ul>
+<strong>poisoning:</strong>
+<ul>
+<li>take away the poison</li>
+<li>make them spit if still not digested</li>
+<li>call poison help hotline</li>
+</ul>
+<strong>swallowing of coin:</strong>
+<ul>
+<li>bend the person over, at the waist to face the ground. strike 5 separate times between the person's shoulder blades with the heel of your head.</li>
+<li>give 5 abdominal thrust</li>
+</ul>
+<ul>
+<strong>stair fall</strong>
+<li>calm down</li>
+<li>check for bleeding(external)</li>
+<li>take to hospital for checking of internal bleed</li>
+<li>use ice packs</li>
+<li>look for other injuries</li>
+<li>look for painful or breathing difficulty</li>
+
+<h2>don'ts</h2>
+<strong>drowning:</strong>
+<ul>
+<li>don't wait before rescuing</li>
+</ul>
+<strong>poisoning:</strong>
+<ul>
+<li>don't make the child vomit</li>
+</ul>
+<strong>swallowing of coin:</strong>
+<ul>
+<li>don't try to get the coin using your finger</li>
+</ul>
+<ul>
+<strong>stair fall</strong>
+<li>don't over work</li>
+<li>avoid carrying heavy things</li>
+</font>
+</p>
+</body>
+</html>

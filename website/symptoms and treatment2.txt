@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head><title>symptoms and treatment</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#00ffff;
+padding:0 50px;
+}
+</style>
+</head>
+<body>
+<header><h1>Symptoms and Treatment</h1></header>
+<p>
+<h2>Symptoms</h2>
+Measles:
+<ul>
+<li>fever</li>
+<li>cold</li>
+<li>watery eyes</li>
+</ul>
+Malaria:
+<ul>
+<li>fever</li>
+<li>headache</li>
+<li>chills</li>
+<li>nausea</li>
+</ul>
+Pneumonia:
+<ul>
+<li>fever</li>
+<li>chills</li>
+<li>Nausea</li>
+<li>cough and phlegm</li>
+<li>Blood in sputum</li>
+<li>chest pain</li>
+</ul>
+
+<h2>Treatment</h2>
+Measles:(note: there is no specific treatment for this kind of disease but these following are possible treatment)
+<ul>
+<li>rest(avoid busy works)</li>
+<li>drinking fluids</li>
+<li>OTC medicine for fever</li>
+<li>Antibiotics</li>
+<li>Vitamin A</li>
+</ul>
+Malaria:
+<ul>
+<li>Milk</li>
+<li>Tea</li>
+<li>Apple cider vinegar</li>
+</ul>
+Pneumonia:
+<ul>
+<li>rest</li>
+<li>ginger</li>
+<li>honey</li>
+<li>grapes</li>
+<li>drinking of fluids</li>
+</ul>
+</p>
+</body>
+</html>

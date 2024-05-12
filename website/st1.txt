@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head><title>symptoms and treatment</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#00ffff;
+padding:0 50px;
+}
+</style>
+</head>
+<body>
+<header><h1>Symptoms and Treatment</h1></header>
+<p><font size=20>
+<h2>Symptoms</h2>
+Cold:
+<ul>
+<li>dryness and hotness of skin</li>
+<li>vomiting</li>
+<li>headache</li>
+<li>loss of appetite</li>
+<li>dark urine</li>
+</ul>
+Chickenpox:
+<ul>
+<li>pain</li>
+<li>burning</li>
+<li>inflammation</li>
+<li>blisters</li>
+</ul>
+Sore throat:
+<ul>
+<li>scratchy sensation in the throat</li>
+<li>fever</li>
+<li>pain when swallowing</li>
+</ul>
+Ear infection:
+<ul>
+<li>feeling sick</li>
+<li>fever</li>
+<li>pain in the ear</li>
+<li>slight loss of hearing</li>
+</ul>
+<h2>Treatment</h2>
+Cold:
+<ul>
+<li>nasal spray(for blocked nose)</li>
+<li>drink plenty of water(to stay hydrated)</li>
+<li>combination of cough and cold medicines(not recommended if the child is not that sick)</li>
+<li>paracetamol</li>
+<li>rest</li>
+</ul>
+Chickenpox:
+<ul>
+<li>serve sugar-free popsicles</li>
+<li>apply lotion(such as: fragrance-free lotion, calamine lotion, and anti-itch lotion)</li>
+<li>keep nails trimmed short</li>
+<li>stay indoor</li>
+<li>wear gloves or mitten</li>
+<li>soft bland diet(for chickenpox that sores in the mouth)</li>
+<li>chamonile compress</li>
+<li>Antihistamines for itching</li>
+</ul>
+Sore throat:
+<ul>
+<li>gargle with saltwater</li>
+<li>stay indoor</li>
+<li>Avoid irritants</li>
+<li>drinking of water</li>
+<li>rest</li>
+</ul>
+Ear infection:
+<ul>
+<li>distraction(such as: playing, watching, eating and etc.)</li>
+<li>sleep without putting pressure on the infected ear</li>
+<li>medicine(such as: Acetaminophen, Ibuprofen and Naproxen)</li>
+<li>cold, warm or both compress</li>
+</font>
+</ul>

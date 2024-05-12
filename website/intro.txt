@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor=orange>
+<header><h1>PEDIAcli<h1></header>
+<p><font face=Times New Roman color=white>Ciao! This is PEDIAcli at your service. We are very thankful for choosing us as your guide in treating your beloved child. We would like to inform you that this website offers the following:
+<ul>
+<li>Common diseases among children</li>
+<li>Symptoms and treatment</li>
+<li>Serious diseases among children</li>	
+<li>Symptoms and treatment</li>
+<li>Common injuries among children</li>
+<li>What to do and don’t</li>
+<li>Serious injuries among children</li>
+<li>What to do and don’t</li>
+<li>Closing remarks</li>
+<br>With the help of this website, you will be able to treat your child without going to the doctor’s clinic and spend money.
+<br>Without further delay, let’s start…
+<br>Dr. Alina Fatmah U. Alonto, RP</font></p>
+</body>
+</html>

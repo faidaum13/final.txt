@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head><title>common diseases among children</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#00ffff;
+padding:0 50px;
+}
+</style>
+</head>
+<body bgcolor=powderblue>
+<header align=center><h1>common diseases among children</h1>
+</header>
+<ul><font size=20>
+<li>cold</li>
+<li>chickenpox</li>
+<li>sorethroat</li>
+<li>ear infection</li>
+</font>
+</ul>
+<p><font color=navyblue size=20><strong>Cold</strong>, acute infectious disease of the upper respiratory tract, caused by more than 200 kinds of viruses. The common cold is the primary cause of absenteeism in schools and the workplace. According to the DOH, children have six to ten colds a year on average, while adults average two to four colds annually. Children probably have so many because they spend time in close contact in schools and daycare centers, making it easy for the virus to spread.<br><br><strong>Chicken Pox</strong>, also called varicella, contagious viral disease that affects mainly children. According to the Centers for Disease Control and Prevention (CDC), more than 4 million people develop chicken pox each year, and more than 95 percent of Americans will have had chicken pox by the time they reach adulthood. There are about 100 deaths from chicken pox each year.<br><br><strong>Sore throat</strong> is the inflammation of the tissues that line the larynx, the tonsils, or the pharynx, which is more commonly known as the throat. Inflammation of the throat makes the affected tissues rough and raw, which makes swallowing food difficult or painful. Most sore throats are the result of infection caused by viruses or bacteria, and the tissues of the pharynx are usually infected first.<br><br><strong>Ear infection</strong>, it is a disease where ear gets infected by a bacteria that causes ear to ache.</font></p>
+
+
+

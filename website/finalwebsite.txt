@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body bgcolor=powderblue>
+<header align=center><h1>PEDIAcli.com<h1></header>
+<h2> The PAGES:</h2>
+<img src="C:\Users\Administrator\Desktop\website ICT - Shortcut.lnk">
+<nav>
+<ul>
+<li><a href="intro.html">Introduction</a></li>
+<li><a href="common.html">Common diseases among children</a></li>
+<li><a href="symptoms and treatment.html">Symptoms and treatment</a></li>
+<li><a href="serious.html">Serious diseases among children</a></li>
+<li><a href="st2.html">Symptoms and treatment</a></li>
+<li><a href="cinjure.html">Common injuries among children</a></li>
+<li><a href="d2.html">Do's and Don'ts</a></li>
+<li><a href="sinjure.html">Serious injuries among children</a></li>
+<li><a href="d3.html">Do's and Don'ts</a></li>
+<li><a href="cr.html">Closing Remarks</a></li>
+</ul>
+</nav>
+<footer>
+<address>&copy;7/boson-alonto.2023-2024</address>
+</footer>
+</body>
+</html>
+

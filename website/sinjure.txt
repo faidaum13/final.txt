@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head><title>serious injuries among children</title>
+<style>
+{
+margin:0;
+padding:0;
+}
+header{
+height:60px;
+background:#008080;
+padding:0 50px;
+}
+</style>
+</head>
+<body bgcolor=Olive>
+<header align=center><h1>Serious injuries among children</h1></header>
+<ul> <font size=20>
+<li>drowning</li>
+<li>poisoning</li>
+<li>swallowing of coin</li>
+<li>stair fall</li>
+</font></ul>
+<p><font color=silver size=20><strong>
+drowning</strong>
+, this happens when children were left alone without adult supervision or any guardian. this is very dangerous for this may kill the drowned child. this kind of injure is frequently seen at beaches or swimming pools so, for parents who wants to go out with their little kids, keep an eye.<br><br><strong>
+poisoning</strong>
+, this is a rare kind of injure for this only happens when the kid is being spied on because of their parents, academic rivalry, family issues and many more. to avoid this kind of situation, a kid shouldn't take foods from strangers.<br><br>
+<strong>swallowing of coin</strong> this usually happens when a child tries to play with the coin on their mouth and it acidentally slipped and got swallowed.<br><br><strong>
+stair fall</strong>
+, this usually happens when a child accidentally slipped or tripped. to avoid this injury, child must be supervised when walking at the stairs and must not run. this kind of injury is very dangerous because bleeding may occur internally not external. that is what they call internal bleeding or hemorrhage</font></p>
+</body>
+</html>
